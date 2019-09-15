@@ -1,6 +1,7 @@
 # ioclapp
 python django </br>
-first create a venv
+
+first create a venv and clone this repo
 </br>
 now
 </br>
