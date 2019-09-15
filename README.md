@@ -1,6 +1,6 @@
 # ioclapp
 python django
-first create a <h3>venv</h3>
+first create a venv
 
 <h2> pip install -r requirements.txt <h2>
 <h5> go to the working folder<h5>
